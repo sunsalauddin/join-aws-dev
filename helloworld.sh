@@ -1,6 +1,6 @@
 #!/bin/bash
-person1=Ramesh
-person2=Suresh
+person1=$1
+person2=$2
 
 echo "$person1:: Hi $person2, wellcome to join-devops-classes"
 echo "$person2:: HI $person1 thanks for asking"
