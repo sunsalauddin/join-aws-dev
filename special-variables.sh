@@ -7,4 +7,4 @@ echo "script name : $0"
 echo "Realpath : $(realpath $0)"
 echo "who is running current script:$USER"
 echo "Directory of the current script :$pwd"
->>>>>>> 5a34bdf64778107121e0928becf6fef189caf626
+
